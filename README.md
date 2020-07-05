@@ -9,3 +9,5 @@
 **Conclusion**: In this region, healthcare-associated ARO lineages are endemic among connected NFs and ACHs, making patient characteristics more informative of NF admission colonization risk than exposure to specific ACHs.
 
 This repository contains genomic datasets, example clinical data, and analysis scripts for generating figures in the manuscript published in [Clinical Infectious Diseases](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa364/5814952) in 2020.
+
+Genomic sequences are available from [BioProject PRJNA435617](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA435617).
